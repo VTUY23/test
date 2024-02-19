@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    display: grid;
+    grid: 150px / auto auto auto;
+    gap: 20px;
+}
+
+.course {
+    background-color: aqua;
+    color: red;
+}
