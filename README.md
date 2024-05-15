@@ -8,4 +8,4 @@
 
 [alo][]
 
-[alo] : [ala]
+[alo] : [https://dev.mysql.com]
