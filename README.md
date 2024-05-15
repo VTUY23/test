@@ -6,7 +6,7 @@
 
 [MySQL](https://dev.mysql.com)
 
-[alo][   ]
+[alo][         .]
 
 [ok](https://dev.mysql.com)
 
