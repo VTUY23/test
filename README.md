@@ -6,6 +6,4 @@
 
 [MySQL](https://dev.mysql.com)
 
-[alo][    ]
-
 [alo]: https://dev.mysql.com
