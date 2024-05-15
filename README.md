@@ -4,4 +4,4 @@
 
 [PHP](https://windows.php.net/download)
 
-[MySQL](https://dev.mysql.com/downloads/mysql)
+[MySQL](https://dev.mysql.com)
