@@ -8,6 +8,6 @@
 
 [alo][   ]
 
-[ok]  (https://)
+[ok]  (https://dev.mysql.com)
 
 [alo]: https://dev.mysql.com
