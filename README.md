@@ -1,6 +1,5 @@
-[winget][].
+[Winget][].
+[Gcc][].
 
-[gcc][].
-
-[winget]: https://aka.ms/getwinget
-[gcc]: https://github.com/mmozeiko/build-gcc-mingw
+[Winget]: https://aka.ms/getwinget
+[Gcc]: https://github.com/mmozeiko/build-gcc-mingw
