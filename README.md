@@ -5,9 +5,3 @@
 [PHP](https://windows.php.net/download)
 
 [MySQL](https://dev.mysql.com)
-
-[alo][         ]
-
-[ok](https://dev.mysql.com)
-
-[alo]: https://dev.mysql.com
