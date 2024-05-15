@@ -8,4 +8,4 @@
 
 [MySQL][        ]
 
-[MySQL] :https://dev.mysql.com
+[MySQL]:     https://dev.mysql.com
