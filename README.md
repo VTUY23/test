@@ -5,9 +5,3 @@
 [PHP](https://windows.php.net/download)
 
 [MySQL](https://dev.mysql.com)
-
-[MySQL][        ]
-
-[MySQL]:     https://dev.mysql.com
-
-[](https://dev.mysql.com)
