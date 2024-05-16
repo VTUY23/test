@@ -6,4 +6,8 @@
 
 [MySQL](https://dev.mysql.com)
 
-[alo]() :jkmk
+[alo]() :httpsjkmk
+
+[ok][]
+
+[ok]:https://en.opensuse.org/openSUSE:Libzypp_satsolver
