@@ -10,5 +10,4 @@
 
 [MySQL]:     https://dev.mysql.com
 
-[][]
-[]: alo
+[](https://dev.mysql.com)
