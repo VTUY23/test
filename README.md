@@ -10,4 +10,4 @@
 
 [MySQL]:     https://dev.mysql.com
 
-(https://dev.mysql.com)
+[](https://dev.mysql.com)
