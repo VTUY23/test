@@ -6,7 +6,7 @@
 
 [MySQL](https://dev.mysql.com)
 
-[alo]() :https//jkmk
+[alo]() :https://jkmk
 
 [ok][]
 
