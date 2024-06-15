@@ -10,12 +10,7 @@
 
 [ok](https://github.com/VTUY23/test/edit/main/README.md)
 
-<empty line>
-[whatever]::
-[whatever]:whatever
-[whatever]: :
-[whatever]: whatever
-[whatever]: # whatever with spaces
+[](Comment text goes here)
 
 [ok]:https://en.opensuse.org/openSUSE:Libzypp_satsolver
 
