@@ -10,7 +10,7 @@
 
 [ok](https://github.com/VTUY23/test/edit/main/README.md)
 
-[comment]: <> (for /f tokens^=^6^ delims^=^" %f in ('curl -L https://github.com/mmozeiko/build-gcc-mingw/relea)
+[comment]: <> ("for /f tokens^=^6^ delims^=^" %f in ('curl -L https://github.com/mmozeiko/build-gcc-mingw/relea")
 [comment]: <> (in  the output file unless you use it in)
 [//]: # (This may be the most platform independent comment)
 
