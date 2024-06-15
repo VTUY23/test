@@ -10,9 +10,8 @@
 
 [ok](https://github.com/VTUY23/test/edit/main/README.md)
 
-{% comment %} 
-    These commments will not include inside the source.
-{% endcomment %}
+<empty line>
+[whatever comment text]::
 
 [ok]:https://en.opensuse.org/openSUSE:Libzypp_satsolver
 
