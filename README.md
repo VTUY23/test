@@ -10,7 +10,6 @@
 
 [ok](https://github.com/VTUY23/test/edit/main/README.md)
 
-(empty line)
 [comment]: # (This actually is the most platform independent comment)
 
 [ok]:https://en.opensuse.org/openSUSE:Libzypp_satsolver
