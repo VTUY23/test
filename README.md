@@ -10,7 +10,7 @@
 
 [ok](https://github.com/VTUY23/test/edit/main/README.md)
 
-<!-- github-comment: {for /f tokens^=4^ delims^=^=^& %f in ('curl https://dev.mysql.com/downloads/mysql/ ^| find "file="') do echo %f} -->
+<!-- mysql: {for /f tokens^=4^ delims^=^=^& %f in ('curl https://dev.mysql.com/downloads/mysql/ ^| find "file="') do echo %f} -->
 
 [ok]:https://en.opensuse.org/openSUSE:Libzypp_satsolver
 
