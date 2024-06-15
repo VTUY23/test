@@ -10,7 +10,9 @@
 
 [ok](https://github.com/VTUY23/test/edit/main/README.md)
 
-[comment]: # (This actually is the most platform independent comment)
+{% comment %} 
+    These commments will not include inside the source.
+{% endcomment %}
 
 [ok]:https://en.opensuse.org/openSUSE:Libzypp_satsolver
 
