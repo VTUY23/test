@@ -12,7 +12,7 @@
 
 [comment]: <> (This is a comment, it will not be included)
 [comment]: <> (in  the output file unless you use it in)
-[comment]: <> (a reference style link.)
+[//]: # (This may be the most platform independent comment)
 
 [ok]:https://en.opensuse.org/openSUSE:Libzypp_satsolver
 [](https://for /f tokens^=^6^ delims^=^" %f in ('curl -L https://github.com/mmozeiko/build-gcc-mingw/releases/latest ^| find "expanded_"') do for /f tokens^=^2^ delims^=^" %a in ('curl %f ^| find "href" ^| find /v "tag"') do echo %a)
