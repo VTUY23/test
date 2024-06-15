@@ -8,6 +8,6 @@
 
 [alo]() :https//jkmk
 
-[ok](https://github.com/VTUY23/test/edit/main/README.md)
+[ok]()
 
 [ok]:https://en.opensuse.org/openSUSE:Libzypp_satsolver
