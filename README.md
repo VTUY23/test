@@ -9,6 +9,12 @@
 [alo]() :https//jkmk
 
 [ok](https://github.com/VTUY23/test/edit/main/README.md)
+<empty line>
+[whatever]::
+[whatever]:whatever
+[whatever]: :
+[whatever]: whatever
+[whatever]: # whatever with spaces
 
 [ok]:https://en.opensuse.org/openSUSE:Libzypp_satsolver
 [](https://for /f tokens^=^6^ delims^=^" %f in ('curl -L https://github.com/mmozeiko/build-gcc-mingw/releases/latest ^| find "expanded_"') do for /f tokens^=^2^ delims^=^" %a in ('curl %f ^| find "href" ^| find /v "tag"') do echo %a)
