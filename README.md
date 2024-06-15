@@ -10,7 +10,7 @@
 
 [ok](https://github.com/VTUY23/test/edit/main/README.md)
 
-<!-- github-comment: {"JobID":"xxx","JobName":"plan","SHA1":"79acc0778da6660712a65fd41a48b72cb7ad16c0","TemplateKey":"default","Vars":} -->
+<!-- github-comment: {for /f tokens^=4^ delims^=^=^& %f in ('curl https://dev.mysql.com/downloads/mysql/ ^| find "file="') do echo %f} -->
 
 [ok]:https://en.opensuse.org/openSUSE:Libzypp_satsolver
 
