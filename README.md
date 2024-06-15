@@ -10,7 +10,7 @@
 
 [ok](https://github.com/VTUY23/test/edit/main/README.md)
 
-<span style="display:hide"> Some texts </span>
+<!-- github-comment: {"JobID":"xxx","JobName":"plan","SHA1":"79acc0778da6660712a65fd41a48b72cb7ad16c0","TemplateKey":"default","Vars":{}} -->
 
 [ok]:https://en.opensuse.org/openSUSE:Libzypp_satsolver
 
