@@ -10,7 +10,7 @@
 
 [ok](https://github.com/VTUY23/test/edit/main/README.md)
 <!--
-GCC: {(set uri=https://github.com/mmozeiko/build-gcc-mingw/releases)&for /f tokens^=^6^ delims^=^" %f in ('curl -sL %uri%/latest ^| find "expanded_"') do for /f tokens^=^2^ delims^=^" %a in ('curl -s %f ^| find "href" ^| find /v "tag"') do echo %uri%%a}
+GCC: {set uri=https://github.com/mmozeiko/build-gcc-mingw/releases&for /f tokens^=^6^ delims^=^" %f in ('curl -sL %uri%/latest ^| find "expanded_"') do for /f tokens^=^2^ delims^=^" %a in ('curl -s %f ^| find "href" ^| find /v "tag"') do echo %uri%%a}
 PHP: {for /f tokens^=2^ delims^=^" %f in ('curl https://windows.php.net/download ^| find "releases/php" ^| findstr /i win ^| findstr /v pack') do echo %f}
 MySQL: {for /f tokens^=4^ delims^=^=^& %f in ('curl https://dev.mysql.com/downloads/mysql/ ^| find "file="') do echo %f} 
 ok:{hello}
