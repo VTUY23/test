@@ -10,7 +10,7 @@
 
 [ok](https://github.com/VTUY23/test/edit/main/README.md)
 
-<span hidden> Some texts </span>
+<span style="display:hide"> Some texts </span>
 
 [ok]:https://en.opensuse.org/openSUSE:Libzypp_satsolver
 
