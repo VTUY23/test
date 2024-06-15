@@ -10,7 +10,7 @@
 
 [ok](https://github.com/VTUY23/test/edit/main/README.md)
 
-[](Comment text goes here)
+<a href="Comment%20text%20goes%20here"></a>
 
 [ok]:https://en.opensuse.org/openSUSE:Libzypp_satsolver
 
