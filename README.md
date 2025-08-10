@@ -90,7 +90,7 @@ Syntax|Description|Test Text
 Header|Title|a
 Paragraph|Text|b
 
-```
+```json
 {
   "firstName": "John",
   "lastName": "Smith",
@@ -123,6 +123,6 @@ Second Term
 - [ ] Update the website
 - [ ] Contact the media
 
-==highlight==
+I need to highlight these ==very important words==.
 
 H~2~O
