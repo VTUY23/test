@@ -90,7 +90,7 @@ Syntax|Description|Test Text
 Header|Title|a
 Paragraph|Text|b
 
-```json
+```
 {
   "firstName": "John",
   "lastName": "Smith",
@@ -117,7 +117,7 @@ Second Term
 : This is one definition of the second term.
 : This is another definition of the second term.
 
-~~strikethrough words~~~
+~~strikethrough words~~
 
 - [x] Write the press release
 - [ ] Update the website
