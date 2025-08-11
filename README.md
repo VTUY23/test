@@ -55,8 +55,8 @@ _**emphasize**_ text
 
 1. a
 1. b
-    1. c
-    2. d
+    2. c
+    4. d
 
 ![imge](banner.png)
 
