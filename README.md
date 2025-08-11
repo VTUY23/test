@@ -55,7 +55,7 @@ _**emphasize**_ text
 
 1. a
 1. b
-    1. c
+    0. c
     4. d
     2. e
 
